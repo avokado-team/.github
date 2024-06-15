@@ -1,1 +1,1 @@
-# .github
+# Avokado Team
